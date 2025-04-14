@@ -8,7 +8,6 @@ Esta es una aplicación web interactiva para aprender y practicar letras del alf
 
 ![Vista previa de la app](./screenG.jpeg)
 
-> 💡 Asegúrate de tener la imagen `screenshot.png` en la raíz del repositorio o cambia la ruta según dónde esté.
 
 ---
 
