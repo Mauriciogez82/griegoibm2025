@@ -1,6 +1,6 @@
 # 🏛️ Aplicación de Letras Griegas (Koiné)
 
-Esta es una aplicación web interactiva para aprender y practicar letras del alfabeto griego (Koiné). Permite visualizar, arrastrar, y verificar combinaciones de letras. Ideal para una primer acercamiento al idioma del Nuevo Testamento.
+Esta es una aplicación web interactiva para aprender y practicar letras del alfabeto griego (Koiné). Permite visualizar, arrastrar, y verificar combinaciones de letras. Ideal para un primer acercamiento al idioma del Nuevo Testamento.
 
 ---
 
